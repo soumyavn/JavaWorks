@@ -1,0 +1,9 @@
+soumyavn\store\SalesTax\catalog\Product.class
+soumyavn\store\SalesTax\catalog\Taxable.class
+soumyavn\store\SalesTax\catalog\ImportedTaxableProduct.class
+soumyavn\store\SalesTax\catalog\ImportedProduct.class
+soumyavn\store\SalesTax\util\Util.class
+soumyavn\store\SalesTax\catalog\Imported.class
+soumyavn\store\SalesTax\ShoppingCart.class
+soumyavn\store\SalesTax\CheckOut.class
+soumyavn\store\SalesTax\catalog\TaxableProduct.class
